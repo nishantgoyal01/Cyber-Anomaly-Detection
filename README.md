@@ -339,8 +339,6 @@ Open the URL displayed in the terminal (typically **http://localhost:8501**) to 
 ## DASHBOARD SNAPSHOT
 
 <img width="2940" height="6850" alt="image" src="https://github.com/user-attachments/assets/0abe3861-de9d-4c3e-b867-2548d927e519" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="2940" height="6850" alt="image" src="https://github.com/user-attachments/assets/368c448c-8806-4ffc-b764-841b9240f024" />
 
 
 ---
